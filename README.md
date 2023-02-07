@@ -7,7 +7,7 @@ I'm a software engineer from Mexico, who is learning about open source and is cu
       className='text-cyan-600 hover:underline underline-offset-2 decoration-2 decoration-red-600'>yosoyelsamy</a>.</p>
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔭 I’m currently working on Softtek as Software Engineer in testing.
+- 🔭 I’m currently working on Softtek as Software Development Engineer in Test.
 - 🌱 I’m currently learning java and Selenium.
 - 👯 I’m looking to collaborate on different projects related to MERN stack. 
 - 💬 Ask me about my experience, any project that posted and question that you have.
