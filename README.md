@@ -1,7 +1,7 @@
 ### Hey!👋
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-I'm a Software Engineer from Mexico, who is learning about open source and is currently working as SDET with java and Selenium. I mainly code in Javascript, in 2021 I changed my path from electronics engineering to software engineering and fell in love with Javascript, React, Nodejs and so many other modern web frameworks. I am always learning. I'm also working on Java with Springboot, including cloud computing (Azure and AWS). I am also trying to contribute to Open Source projects and create content in Spanish about programming on TikTok as <a
+I'm a software engineer from Mexico, who is learning about open source and is currently working as an SDET with Java and Selenium. I mainly code in Javascript, and in 2021 I changed my path from electronics engineering to software engineering and fell in love with Javascript, React, Node.js, and so many other modern web frameworks. I am always learning. I'm also working on Java with Springboot, including cloud computing (Azure and AWS). I am also trying to contribute to open source projects and create content in Spanish about programming on TikTok as <a
       href='https://www.tiktok.com/@yosoyelsamy'
       target="_blank"
       className='text-cyan-600 hover:underline underline-offset-2 decoration-2 decoration-red-600'>yosoyelsamy</a>.</p>
